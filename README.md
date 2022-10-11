@@ -9,7 +9,7 @@
 - 🔭 I’m currently Volunteering as Machine Learning Team Co-Lead at <img id="gdg" src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/logo_dark_2YZFc5k.png" style="width:230px;" alt="Google Developer Groups">  
   
 
-- 😇 I'm currently working as a Web Developer Intern at Kalyanpur South Welfare Association  
+- 😇 I'm currently pursuing my Bachelors in Computer Science @ GITAM University, Visakhapatnam.
   
 
 - 🌱 I’m currently learning Tensorflow Framework for Python  
