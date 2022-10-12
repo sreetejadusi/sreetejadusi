@@ -99,23 +99,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sreetejadusi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreetejadusi&show_icons=true&locale=en&layout=compact" alt="sreetejadusi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreetejadusi&show_icons=true&locale=en" alt="sreetejadusi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreetejadusi&" alt="sreetejadusi" /></p>
+
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
+<br/>    
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sreetejadusi&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
